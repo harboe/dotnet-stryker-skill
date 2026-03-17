@@ -85,7 +85,7 @@ public void Method_WhenInvalid_Fails(string? input) { ... }
 
 ## Configuration & Troubleshooting
 
-See [REFERENCE.md](REFERENCE.md) for:
+See [`dotnet-stryker-mutations/REFERENCE.md`](dotnet-stryker-mutations/REFERENCE.md) for:
 - `stryker-config.json` template and required settings
 - Adding Stryker to a new test project
 - Troubleshooting common errors (missing DLLs, version issues)
